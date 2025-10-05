@@ -1,16 +1,42 @@
-## Hi there 👋
+<div align="center">
+  
+  ## 👋 Olá, eu sou o **Renato Navarro**
+  
+  ---
+  
+  ### 📊 Estatísticas do GitHub
+  <div>
+    <img src="https://github-readme-stats.vercel.app/api?username=RenatoNavarro&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoNavarro&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+  </div>
 
-<!--
-**RenatoNMG/RenatoNMG** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+  ---
+  
+  ### 💻 Linguagens e Ferramentas
+  <div>
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg" width="45" height="45" title="HTML5" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg" width="45" height="45" title="CSS3" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-original.svg" width="45" height="45" title="JavaScript" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/php/php-original.svg" width="45" height="45" title="PHP" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original.svg" width="45" height="45" title="MySQL" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" width="45" height="45" title="Git" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" width="45" height="45" title="GitHub" />
+    <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/vscode/vscode-original.svg" width="45" height="45" title="VS Code" />
+  </div>
 
-Here are some ideas to get you started:
+  ---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  ### 🌐 Contato
+  <div>
+    <a href="https://github.com/RenatoNavarro" target="_blank">
+      <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
+    </a>
+    <a href="mailto:renatonm9@email.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+    </a>
+    <a href="[https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/renato-navarro-b86299109/)" target="_blank">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    </a>
+  </div>
+
+</div>
