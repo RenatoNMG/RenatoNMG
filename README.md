@@ -6,8 +6,8 @@
   
   ### 📊 Estatísticas do GitHub
   <div>
-    <img src="https://github-readme-stats.vercel.app/api?username=RenatoNavarro&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoNavarro&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api?username=RenatoNMG&show_icons=true&theme=tokyonight&hide_border=true" height="160"/>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=RenatoNMG&layout=compact&theme=tokyonight&hide_border=true" height="160"/>
   </div>
 
   ---
