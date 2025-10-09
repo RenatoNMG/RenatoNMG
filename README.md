@@ -28,13 +28,13 @@
 
   ### 🌐 Contato
   <div>
-    <a href="https://github.com/RenatoNavarro" target="_blank">
+    <a href="https://github.com/RenatoNMG" target="_blank">
       <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white"/>
     </a>
     <a href="mailto:renatonm9@email.com">
       <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
     </a>
-    <a href="[https://www.linkedin.com/in/seulinkedin](https://www.linkedin.com/in/renato-navarro-b86299109/)" target="_blank">
+    <a href="https://www.linkedin.com/public-profile/settings?trk=d_flagship3_profile_self_view_public_profile" target="_blank">
       <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
     </a>
   </div>
